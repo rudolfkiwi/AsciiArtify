@@ -1,2 +1,2 @@
 # AsciiArtify
-Repo for task #4 of DevOps course, week 4
+Repo for tasks from DevOps course, week 4
